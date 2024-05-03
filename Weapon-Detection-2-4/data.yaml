@@ -1,0 +1,12 @@
+names:
+- Weapon
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: weapon-detection-2-w6pvz
+  url: https://universe.roboflow.com/ml-x00sj/weapon-detection-2-w6pvz/dataset/4
+  version: 4
+  workspace: ml-x00sj
+test: test/images
+train: train/images
+val: valid/images
